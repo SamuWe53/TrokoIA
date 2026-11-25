@@ -1,0 +1,2 @@
+# TrokoIA
+Asistente IA
